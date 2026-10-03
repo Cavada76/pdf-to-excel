@@ -28,4 +28,8 @@ Just ask:
 
 Requires Python with `pdfplumber` and `openpyxl` (Claude installs them if missing).
 
+## Privacy
+
+Runs locally, makes no network calls, and writes only to your folder. See the [Privacy Policy](PRIVACY.md).
+
 MIT licensed.

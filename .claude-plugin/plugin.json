@@ -4,5 +4,8 @@
   "description": "Convert PDF to Excel: extract tables from bank statements, invoices and reports into a clean .xlsx with real numbers, dates and merged multi-page tables.",
   "author": { "name": "Daniel" },
   "license": "MIT",
+  "homepage": "https://github.com/Cavada76/pdf-to-excel",
+  "repository": "https://github.com/Cavada76/pdf-to-excel",
+  "privacyPolicyUrl": "https://github.com/Cavada76/pdf-to-excel/blob/main/PRIVACY.md",
   "keywords": ["pdf to excel", "pdf to xlsx", "pdf to csv", "bank statement", "extract tables", "spreadsheet"]
 }
