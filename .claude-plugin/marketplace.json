@@ -1,0 +1,15 @@
+{
+  "name": "pdf-to-excel",
+  "owner": { "name": "Daniel" },
+  "metadata": { "description": "Convert PDF to Excel: bank statements, invoices and reports into a clean .xlsx.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "pdf-to-excel",
+      "source": "./",
+      "description": "Convert PDF to Excel: bank statements, invoices and reports into a clean .xlsx.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["pdf to excel", "pdf to xlsx", "pdf to csv", "bank statement"]
+    }
+  ]
+}

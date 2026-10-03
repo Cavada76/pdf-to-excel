@@ -1,0 +1,8 @@
+{
+  "name": "pdf-to-excel",
+  "version": "1.0.0",
+  "description": "Convert PDF to Excel: extract tables from bank statements, invoices and reports into a clean .xlsx with real numbers, dates and merged multi-page tables.",
+  "author": { "name": "Daniel" },
+  "license": "MIT",
+  "keywords": ["pdf to excel", "pdf to xlsx", "pdf to csv", "bank statement", "extract tables", "spreadsheet"]
+}
